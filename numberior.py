@@ -60,5 +60,3 @@ except OverflowError:
 
 print("Среднее значение в последовательности: %f" % get_average_number(numbers))
 print("Время выполнения программы: %f секунд" % get_run_time(run_time_start))
-
-quit()
