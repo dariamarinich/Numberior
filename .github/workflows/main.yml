@@ -1,4 +1,4 @@
-name: Python application
+name: Numberior
 
 # run on comitting (pushing)
 on:
